@@ -1,10 +1,53 @@
-### Hi there 👋, I'm Pauzi
+## **Hi there 👋, I'm Pauzi**
 
+<br/>
 
-My name is **Muhammad Pauzi**
+My name is **Muhammad Pauzi.** You can call me **Oji**.
 
 Here are some abouts me:
 
-- 🏫 I still scholl, exacly High Scholl
-- I live in **Langkat, Sumatera Utara, Indonesia**
+- 🏫 I'm a Student at SMK Negeri 1 Stabat (Vocational High School).
+- 🏡 I live in Langkat, Sumatera Utara, Indonesia
+- I'm currently focusing on studying in the web backend field, such as Express, Mongodb, MySQL.
+
+
+## 🛠 **My Skills**
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-2F3146?style=flat-square&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-2F3146?style=flat-square&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-2F3146?style=flat-square&logo=PHP)&nbsp;
+
+#### ✨ Frontend
+![HTML](https://img.shields.io/badge/-HTML-2F3146?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2F3146?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2F3146?style=flat-square&logo=bootstrap&logoColor=563D7C)\
+![React](https://img.shields.io/badge/-React-2F3146?style=flat-square&logo=react)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-2F3146?style=flat-square&logo=Svelte)&nbsp;
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-2F3146?style=flat-square&logo=Svelte)&nbsp;
+
+#### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-2F3146?style=flat-square&logo=node.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-2F3146?style=flat-square&logo=Laravel)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-2F3146?style=flat-square&logo=Codeigniter)&nbsp;
+![Express](https://img.shields.io/badge/-Express-2F3146?style=flat-square&logo=express)&nbsp;
+![Django](https://img.shields.io/badge/-Django-2F3146?style=flat-square&logo=django&logoColor=092E20)&nbsp;
+
+#### 💾 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-2F3146?style=flat-square&logo=MySQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-2F3146?style=flat-square&logo=MongoDB)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-2F3146?style=flat-square&logo=SQLite)&nbsp;
+
+#### 🧮 Others
+![Git](https://img.shields.io/badge/-Git-2F3146?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-2F3146?style=flat-square&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-2F3146?style=flat-square&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2F3146?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+#### 🖍 Designs
+![Illustrator](https://img.shields.io/badge/-Illustrator-2F3146?style=flat-square&logo=adobe-illustrator)&nbsp;
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-2F3146?style=flat-square&logo=adobe-xd)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-2F3146?style=flat-square&logo=figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-2F3146?style=flat-square&logo=adobe-photoshop)&nbsp;
+
+![](https://komarev.com/ghpvc/?username=muhammadpauzi)
 
