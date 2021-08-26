@@ -8,7 +8,7 @@ Here are some abouts me:
 
 - 🏫 I'm a Student at SMK Negeri 1 Stabat (Vocational High School).
 - 🏡 I live in Langkat, Sumatera Utara, Indonesia
-- I'm currently focusing on studying in the web backend field, such as Express, Mongodb, MySQL.
+- 📚 I'm currently focusing on studying in the web backend field, such as Express, Mongodb, MySQL.
 
 
 ## 🛠 **My Skills**
@@ -48,6 +48,11 @@ Here are some abouts me:
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-2F3146?style=flat-square&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2F3146?style=flat-square&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2F3146?style=flat-square&logo=adobe-photoshop)&nbsp;
+
+
+### 📉 **My Github's Statistics**
+![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=muhammadpauzi)
 
