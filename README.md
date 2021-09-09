@@ -20,6 +20,7 @@ Here are some abouts me:
 #### ✨ Frontend
 ![HTML](https://img.shields.io/badge/-HTML-2F3146?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2F3146?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-2F3146?style=flat-square&logo=SASS&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2F3146?style=flat-square&logo=bootstrap&logoColor=563D7C)\
 ![React](https://img.shields.io/badge/-React-2F3146?style=flat-square&logo=react)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-2F3146?style=flat-square&logo=Svelte)&nbsp;
