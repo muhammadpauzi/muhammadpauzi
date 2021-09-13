@@ -32,6 +32,7 @@ Here are some abouts me:
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-2F3146?style=flat-square&logo=Codeigniter)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-2F3146?style=flat-square&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2F3146?style=flat-square&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-2F3146?style=flat-square&logo=flask&logoColor=092E20)&nbsp;
 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-2F3146?style=flat-square&logo=MySQL)&nbsp;
@@ -51,9 +52,9 @@ Here are some abouts me:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2F3146?style=flat-square&logo=adobe-photoshop)&nbsp;
 
 
-### Contacts
+### 📞 Contacts
 
-- Via Email : muhammadpauzi200@gmail.com
+- Via Email 📧 : muhammadpauzi200@gmail.com
 
 ### 📉 **My Github's Statistics**
 ![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
