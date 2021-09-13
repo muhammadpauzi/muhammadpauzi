@@ -51,6 +51,10 @@ Here are some abouts me:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2F3146?style=flat-square&logo=adobe-photoshop)&nbsp;
 
 
+### Contacts
+
+- Via Email : muhammadpauzi200@gmail.com
+
 ### 📉 **My Github's Statistics**
 ![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
