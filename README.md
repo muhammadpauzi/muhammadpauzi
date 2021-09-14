@@ -11,7 +11,7 @@ Here are some abouts me:
 - 📚 I'm currently focusing on studying in the web backend field, such as Express, Flask, SQLite, Mongodb, MySQL and more.
 
 
-## 🛠 **My Skills**
+## 🛠 My Skills
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-2F3146?style=flat-square&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2F3146?style=flat-square&logo=javascript)&nbsp;
@@ -52,11 +52,11 @@ Here are some abouts me:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2F3146?style=flat-square&logo=adobe-photoshop)&nbsp;
 
 
-### 📞 Contact
+## 📞 Contact
 
 - Via Email 📧 : muhammadpauzi200@gmail.com
 
-### 📉 **My Github Statistics**
+## 📉 **My Github Statistics**
 ![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
 
