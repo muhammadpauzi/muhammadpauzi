@@ -8,7 +8,7 @@ Here are some abouts me:
 
 - 🏫 I'm a Student at SMK Negeri 1 Stabat (Vocational High School).
 - 🏡 I live in Langkat, Sumatera Utara, Indonesia
-- 📚 I'm currently focusing on studying in the web backend field, such as Express, Flask, SQLite, Mongodb, MySQL and more.
+- 📚 I'm currently focusing on studying in the web backend field, such as Express, Flask, SQLite, MongoDB, MySQL and more.
 
 
 ## 🛠 My Skills
