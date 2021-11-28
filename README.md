@@ -16,10 +16,12 @@ Here are some abouts me:
 ![Python](https://img.shields.io/badge/-Python-2F3146?style=flat-square&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2F3146?style=flat-square&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2F3146?style=flat-square&logo=PHP)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F3146?style=flat-square&logo=TypeScript)&nbsp;
 
 #### ✨ Frontend
 ![HTML](https://img.shields.io/badge/-HTML-2F3146?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2F3146?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-2F3146?style=flat-square&logo=TailwindCSS&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-2F3146?style=flat-square&logo=SASS&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2F3146?style=flat-square&logo=bootstrap&logoColor=563D7C)\
 ![React](https://img.shields.io/badge/-React-2F3146?style=flat-square&logo=react)&nbsp;
