@@ -6,6 +6,8 @@ Hello, My name's **Muhammad Pauzi** and i am a Full-stack Web Developer. I was b
 
 I really like this field (Full-stack Web Developer), because i like programming, coding and learning something new technologies and making a project, especially web-based.
 
+My Personal Website : https://mypauzi.netlify.app/
+
 Here are some abouts me:
 
 - 🏫 I'm a Student at SMK Negeri 1 Stabat (Vocational High School).
