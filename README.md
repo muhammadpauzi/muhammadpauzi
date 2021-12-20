@@ -2,13 +2,15 @@
 
 <br/>
 
-My name is **Muhammad Pauzi.** You can call me **Oji**.
+Hello, My name's **Muhammad Pauzi** and i am a Full-stack Web Developer. I was born and live in Langkat, North Sumatera, Indonesia. I've been studying programming since 16 years old. I already understand several programming languages, frameworks and more that have been implemented in some of my projects which can be seen in the below this section.
+
+I really like this field (Full-stack Web Developer), because i like programming, coding and learning something new technologies and making a project, especially web-based.
 
 Here are some abouts me:
 
 - 🏫 I'm a Student at SMK Negeri 1 Stabat (Vocational High School).
 - 🏡 I live in Langkat, Sumatera Utara, Indonesia
-- 📚 I'm currently focusing on studying in the web backend field, such as Express, Flask, SQLite, MongoDB, MySQL and more.
+- 📚 I'm currently focusing on studying in the web backend field, such as Express, Flask, PHP, SQLite, MongoDB, MySQL and more.
 
 
 ## 🛠 My Skills
