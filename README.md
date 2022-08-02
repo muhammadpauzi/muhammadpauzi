@@ -7,7 +7,13 @@
 
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, <b>"Fullstack Web Developer"</b> from <img src="https://cdn-icons-png.flaticon.com/512/939/939651.png" width="13"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
-<h3><b>Tech Stacks 🫠</b></h3>
+<a href="https://mypauzi.netlify.app/">
+<img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
+</a>
+
+<hr/>
+<h3><b>🫠 Tech Stacks</b></h3>
+<hr/>
 
 <h4><b>💻 Programming Languages</b></h4>
 
@@ -88,5 +94,14 @@
 </a>
 
 </p>
+
+<hr/>
+
+## 📉 **My Github Statistics**
+
+![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=muhammadpauzi)
 
 </div>
