@@ -10,7 +10,6 @@
 <h3><b>Tech Stacks</b></h3>
 
 <h3><b>💻 Programming Languages</b></h3>
-<hr/>
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -20,7 +19,6 @@
 </p>
 
 <h3><b>📚 Web Stacks</b></h3>
-<hr/>
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,7 +32,7 @@
 <img alt="Alphine JS" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black">
 <img alt="Next JS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img alt="Yarn" src="	https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img alt="Livewire" src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white">
@@ -46,7 +44,6 @@
 </p>
 
 <h3><b>💿 Databases</b></h3>
-<hr/>
 
 <p>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -56,7 +53,6 @@
 </p>
 
 <h3><b>🏷️ Others / Tools</b></h3>
-<hr/>
 
 <p>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -69,7 +65,6 @@
 </p>
 
 <h3><b>🖊️ Designs</b></h3>
-<hr/>
 
 <p>
 <img alt="Adobe Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
