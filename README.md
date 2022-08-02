@@ -1,11 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-<div style="font-family: Nunito !important;">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
 
-<p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/939/939651.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Utara, Indonesia</b>.</p>
+<p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
 <a target="_blank" href="https://mypauzi.netlify.app/">
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
@@ -103,5 +98,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=muhammadpauzi)
-
-</div>
