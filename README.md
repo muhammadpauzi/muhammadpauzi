@@ -7,7 +7,7 @@
 
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/939/939651.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
-<a href="https://mypauzi.netlify.app/">
+<a target="_blank" href="https://mypauzi.netlify.app/">
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
 
