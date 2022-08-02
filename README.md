@@ -3,13 +3,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 <div style="font-family: Nunito">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you. 🫠</b></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
 
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, <b>"Fullstack Web Developer"</b> from <img src="https://cdn-icons-png.flaticon.com/512/939/939651.png" width="13"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
-<h3><b>Tech Stacks</b></h3>
+<h3><b>Tech Stacks 🫠</b></h3>
 
-<h3><b>💻 Programming Languages</b></h3>
+<h4><b>💻 Programming Languages</b></h4>
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -18,7 +18,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
 
-<h3><b>📚 Web Stacks</b></h3>
+<h4><b>📚 Web Stacks</b></h4>
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,7 +43,7 @@
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
-<h3><b>💿 Databases</b></h3>
+<h4><b>💿 Databases</b></h4>
 
 <p>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -52,7 +52,7 @@
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
 
-<h3><b>🏷️ Others / Tools</b></h3>
+<h4><b>🏷️ Others / Tools</b></h4>
 
 <p>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -64,13 +64,28 @@
 
 </p>
 
-<h3><b>🖊️ Designs</b></h3>
+<h4><b>🖊️ Designs</b></h4>
 
 <p>
 <img alt="Adobe Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+</p>
+
+<h4><b>☎️ Contacts</b></h4>
+
+<p>
+<a href="mailto:muhammadpauzi200@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://telegram.me/mhdpauzi">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://www.instagram.com/mhdpauzi_">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </p>
 
