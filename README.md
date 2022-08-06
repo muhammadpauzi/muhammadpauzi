@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
+3<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
 
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
@@ -7,7 +7,7 @@
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
 <a target="_blank" href="https://youtube.com/channel/UCOuOELNabiwwlFZlGB6VsDA">
-<img alt="Projects" src="https://img.shields.io/badge/Projects-FF2D20?style=for-the-badge&logoColor=black">
+<img alt="My Projects" src="https://img.shields.io/badge/My Projects-FF2D20?style=for-the-badge&logoColor=black">
 </a>
 </p>
 
