@@ -2,9 +2,14 @@
 
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Pauzi, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Utara, Indonesia</b>.</p>
 
+<p>
 <a target="_blank" href="https://mypauzi.netlify.app/">
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
+<a target="_blank" href="https://youtube.com/channel/UCOuOELNabiwwlFZlGB6VsDA">
+<img alt="Projects" src="https://img.shields.io/badge/Projects-FF2D20?style=for-the-badge&logoColor=black">
+</a>
+</p>
 
 <hr/>
 <h3><b>🫠 Tech Stacks</b></h3>
