@@ -1,5 +1,4 @@
 
-![Asset 33](https://github.com/muhammadpauzi/muhammadpauzi/assets/75721128/1b5b3582-d842-4ea2-8093-545c4ee61f06)
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
