@@ -16,13 +16,11 @@
 <hr/>
 
 <h4><b>💻 Programming Languages</b></h4>
-<p>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</p>
 
 <h4><b>⚙️ Backend & API</b></h4>
 <p>
