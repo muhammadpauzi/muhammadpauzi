@@ -94,7 +94,7 @@
 
 <h4><b>☎️ Contacts</b></h4>
 <p>
-<a href="mailto:muhammadpauzi200@gmail.com">
+<a href="mailto:muhammadpauzi.work@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://telegram.me/mhdpauzi">
