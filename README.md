@@ -12,6 +12,31 @@
 </p>
 
 <hr/>
+<h3><b>🚀 Currently Building</b></h3>
+<hr/>
+
+<p>
+  <a target="_blank" href="https://gogotes.com/">
+    <img alt="Gogotes - Online Exam & CBT Platform" src="https://img.shields.io/badge/Gogotes_CBT-F54900?style=for-the-badge&logoColor=white">
+  </a>
+  <a target="_blank" href="https://gogotes.com/en/cat/">
+    <img alt="Gogotes CAT - Computer Assisted Test" src="https://img.shields.io/badge/Gogotes_CAT-111827?style=for-the-badge&logoColor=white">
+  </a>
+  <a target="_blank" href="https://gogolabs.gogotes.com/">
+    <img alt="Gogolabs Studio" src="https://img.shields.io/badge/Gogolabs-2563EB?style=for-the-badge&logoColor=white">
+  </a>
+</p>
+
+<ul>
+  <li>
+    <b><a target="_blank" href="https://gogotes.com/">Gogotes</a></b> — Multi-tenant online exam (CBT) and <a target="_blank" href="https://gogotes.com/en/cat/">Computer Assisted Test (CAT)</a> platform engineered with .NET, PostgreSQL, Redis, and React. Built for unstable test-center networks with browser-first local answer sync, 5 scoring engines (including empirical IRT and 2–10 option weights), and an external AI JSON import wizard with zero API key costs.
+  </li>
+  <li>
+    <b><a target="_blank" href="https://gogolabs.gogotes.com/">Gogolabs</a></b> — Software engineering studio behind Gogotes and custom web platforms.
+  </li>
+</ul>
+
+<hr/>
 <h3><b>🫠 Tech Stacks & Tools</b></h3>
 <hr/>
 
